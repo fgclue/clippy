@@ -1,2 +1,2 @@
-# clippy
-Clippy is a clipboard manager for linux, Windows and MacOS.
+# Clippy Clipboard Manager
+Clippy is a clipboard manager for Linux and MacOS. (no windows support because windows alredy has a clipboard manager with windows 10+)
